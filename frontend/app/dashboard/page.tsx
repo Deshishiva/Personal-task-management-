@@ -26,7 +26,7 @@ export default function Dashboard() {
 
   const loadTasks = async () => {
     if (!token) return;
-    const res = await fetch("http://personal-task-management-nx0a.onrender.com/tasks", {
+    const res = await fetch("https://personal-task-management-nx0a.onrender.com/tasks", {
       headers: { Authorization: `Bearer ${token}` }
     });
     setTasks(await res.json());
