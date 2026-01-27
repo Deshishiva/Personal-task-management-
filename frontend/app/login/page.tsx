@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useState, CSSProperties } from "react";
 
 export default function Login() {
   const [email, setEmail] = useState("");
@@ -51,9 +51,9 @@ export default function Login() {
   );
 }
 
-/* styles */
+/* styles with proper typing */
 
-const bg = {
+const bg: CSSProperties = {
   minHeight: "100vh",
   background: "#4b87d6",
   display: "flex",
@@ -61,7 +61,7 @@ const bg = {
   alignItems: "center"
 };
 
-const card = {
+const card: CSSProperties = {
   background: "white",
   padding: 40,
   borderRadius: 16,
@@ -70,7 +70,7 @@ const card = {
   textAlign: "center"
 };
 
-const input = {
+const input: CSSProperties = {
   width: "100%",
   padding: 12,
   marginBottom: 14,
@@ -78,7 +78,7 @@ const input = {
   borderRadius: 10
 };
 
-const btn = {
+const btn: CSSProperties = {
   width: "100%",
   background: "#2563eb",
   color: "white",
@@ -87,9 +87,8 @@ const btn = {
   borderRadius: 12
 };
 
-const link = {
+const link: CSSProperties = {
   color: "#2563eb",
   textDecoration: "none",
-  fontWeight: 500,
-  marginLeft: 75,
+  fontWeight: 500
 };
