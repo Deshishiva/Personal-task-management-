@@ -6,7 +6,7 @@ export default function Register() {
   const [password, setPassword] = useState("");
 
   const register = async () => {
-    const res = await fetch("http://localhost:4000/auth/register", {
+    const res = await fetch("https://personal-task-management-nx0a.onrender.com/auth/register", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email, password })
