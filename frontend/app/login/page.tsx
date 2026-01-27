@@ -6,7 +6,7 @@ export default function Login() {
   const [password, setPassword] = useState("");
 
   const login = async () => {
-    const res = await fetch("https://personal-task-management-nx0a.onrender.com//auth/login", {
+    const res = await fetch("https://personal-task-management-nx0a.onrender.com/auth/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email, password })
