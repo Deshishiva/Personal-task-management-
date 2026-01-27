@@ -39,7 +39,7 @@ export default function Dashboard() {
   const addTask = async () => {
     if (!title.trim()) return;
 
-    await fetch("http://localhost:4000/tasks", {
+    await fetch("https://personal-task-management-nx0a.onrender.com/tasks", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -53,7 +53,7 @@ export default function Dashboard() {
   };
 
   const saveEdit = async (id:number) => {
-    await fetch(`http://localhost:4000/tasks/${id}`, {
+    await fetch(`https://personal-task-management-nx0a.onrender.com/tasks/${id}`, {
       method:"PATCH",
       headers:{
         "Content-Type":"application/json",
@@ -66,7 +66,7 @@ export default function Dashboard() {
   };
 
   const deleteTask = async (id:number) => {
-    await fetch(`http://localhost:4000/tasks/${id}`, {
+    await fetch(`https://personal-task-management-nx0a.onrender.com/tasks/${id}`, {
       method:"DELETE",
       headers:{ Authorization:`Bearer ${token}` }
     });
@@ -74,7 +74,7 @@ export default function Dashboard() {
   };
 
   const toggleTask = async (id:number) => {
-    await fetch(`http://localhost:4000/tasks/${id}/toggle`, {
+    await fetch(`https://personal-task-management-nx0a.onrender.com/tasks/${id}/toggle`, {
       method:"PATCH",
       headers:{ Authorization:`Bearer ${token}` }
     });
