@@ -1,5 +1,5 @@
 "use client";
-import { useState } from "react";
+import { useState, CSSProperties } from "react";
 
 export default function Register() {
   const [email, setEmail] = useState("");
@@ -49,17 +49,17 @@ export default function Register() {
   );
 }
 
-/* same styles */
+/* styles */
 
-const bg = {
+const bg: CSSProperties = {
   minHeight: "100vh",
-  background: "#18498a",
+  background: "#4b87d6",
   display: "flex",
   justifyContent: "center",
   alignItems: "center"
 };
 
-const card = {
+const card: CSSProperties = {
   background: "white",
   padding: 40,
   borderRadius: 16,
@@ -68,7 +68,7 @@ const card = {
   textAlign: "center"
 };
 
-const input = {
+const input: CSSProperties = {
   width: "100%",
   padding: 12,
   marginBottom: 14,
@@ -76,20 +76,17 @@ const input = {
   borderRadius: 10
 };
 
-const btn = {
+const btn: CSSProperties = {
   width: "100%",
   background: "#2563eb",
   color: "white",
   padding: 12,
   border: "none",
   borderRadius: 12
-  
 };
 
-const link = {
-  color: "#3307f7",
+const link: CSSProperties = {
+  color: "#2563eb",
   textDecoration: "none",
-  fontWeight: 500,
-  marginLeft: 100
-
+  fontWeight: 500
 };
