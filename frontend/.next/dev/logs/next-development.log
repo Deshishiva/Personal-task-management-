@@ -1,0 +1,567 @@
+[00:00:03.212] Server  LOG     ✓ Ready in 2.1s
+[00:00:04.439] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.497] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:42.619] Server  LOG     ✓ Compiled in 150ms
+[00:01:51.787] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:42.233] Server  LOG     ✓ Compiled in 29ms
+[00:04:59.480] Server  LOG     ✓ Compiled in 36ms
+[00:05:18.226] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:19.900] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:23.054] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:15.539] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:15.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:22.729] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:11:30.077] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:56.770] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:58.310] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:35.624] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:37.075] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:26:18.150] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:37:47.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:37:55.435] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:38:00.324] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:38:12.349] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:38:25.259] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:38:29.910] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:40:42.196] Server  LOG     ✓ Compiled in 12ms
+[04:41:14.865] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:52:54.024] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:53:23.704] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:53:40.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:58:59.699] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:59:00.796] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:59:05.511] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:04:18.040] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:04:21.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:05:25.269] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:08:31.554] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:08:51.950] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:11:14.350] Server  LOG     ✓ Compiled in 49ms
+[05:12:13.221] Server  ERROR   ⨯ ReferenceError: localStorage is not defined
+[05:12:13.588] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:18:08.202] Server  ERROR   ⨯ ReferenceError: localStorage is not defined
+[05:18:08.597] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:18:12.579] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:18:27.244] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:18:27.514] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:18:28.475] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:18:29.087] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:18:29.308] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:23:04.210] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:22.741] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:23:22.974] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:23:24.452] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:23:30.840] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:23:48.186] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:23:48.448] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:18.878] Server  LOG     ✓ Compiled in 20ms
+[05:24:22.144] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:32.000] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:24:34.584] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:40.371] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:40.629] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:41.351] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:41.993] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:24:42.198] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:25:53.562] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:25:53.842] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:25:55.057] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:55.497] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:25:57.623] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:05.316] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:26:05.580] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:27:05.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:27:09.387] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:27:26.096] Browser ERROR   unhandledRejection: TypeError: Failed to fetch
+[05:30:35.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:30:48.470] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:34:41.763] Server  LOG     ✓ Compiled in 16ms
+[05:42:37.233] Server  LOG     ✓ Compiled in 59ms
+[05:42:44.277] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:43:59.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:47:15.527] Server  LOG     ✓ Compiled in 46ms
+[05:52:56.371] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:53:07.448] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:02:10.055] Server  LOG     ✓ Compiled in 36ms
+[06:10:12.465] Server  LOG     ✓ Compiled in 47ms
+[06:10:17.944] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:23:06.229] Server  LOG     ✓ Compiled in 11ms
+[06:23:15.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:25:17.470] Server  LOG     ✓ Compiled in 9ms
+[06:25:25.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:28:49.704] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:28:50.685] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:28:52.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:28:53.402] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:28:54.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:29:10.362] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:31:28.534] Server  LOG     ✓ Compiled in 12ms
+[06:31:34.365] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:31:48.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:33:58.724] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:34:17.488] Server  LOG     ✓ Compiled in 57ms
+[06:35:38.848] Server  LOG     ✓ Compiled in 9ms
+[06:35:50.920] Server  LOG     ✓ Compiled in 9ms
+[06:35:51.154] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:35:54.123] Server  LOG     ✓ Compiled in 10ms
+[06:35:54.858] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:03.834] Server  LOG     ✓ Compiled in 12ms
+[06:36:03.880] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:12.895] Server  LOG     ✓ Compiled in 22ms
+[06:36:12.941] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:18.620] Server  LOG     ✓ Compiled in 11ms
+[06:36:19.208] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:20.979] Server  LOG     ✓ Compiled in 10ms
+[06:36:21.151] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:22.218] Server  LOG     ✓ Compiled in 25ms
+[06:36:22.281] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:36.568] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:36:45.003] Server  LOG     ✓ Compiled in 11ms
+[06:36:45.145] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:36:46.390] Server  LOG     ✓ Compiled in 12ms
+[06:36:47.152] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:39:28.573] Server  LOG     ✓ Compiled in 17ms
+[06:39:29.153] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:39:31.231] Server  LOG     ✓ Compiled in 16ms
+[06:39:32.157] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:39:36.746] Server  LOG     ✓ Compiled in 11ms
+[06:39:37.149] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:39:42.900] Server  LOG     ✓ Compiled in 10ms
+[06:39:43.150] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:39:49.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:40:14.952] Server  LOG     ✓ Compiled in 9ms
+[06:40:15.154] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:40:29.280] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:40:37.537] Server  LOG     ✓ Compiled in 14ms
+[06:40:38.147] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:40:38.878] Server  LOG     ✓ Compiled in 14ms
+[06:40:39.146] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:40:48.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:40:55.114] Server  LOG     ✓ Compiled in 11ms
+[06:40:55.745] Browser ERROR   %s a style property during rerender (%s) when a conflicting property is set (%s) can lead to styling bugs. To avoid this, don't mix shorthand and non-shorthand properties for the same value; instead, replace the shorthand with separate values. Updating background backgroundSize
+[06:40:59.935] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:41:04.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:42:43.831] Server  LOG     ✓ Compiled in 18ms
+[06:43:03.644] Server  LOG     ✓ Compiled in 5ms
+[06:43:06.007] Server  LOG     ✓ Compiled in 7ms
+[06:43:53.916] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:44:19.654] Server  LOG     ✓ Compiled in 163ms
+[06:44:20.149] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   marf
+     |   ^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'marf'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:21.041] Server  LOG     ✓ Compiled in 10ms
+[06:44:21.151] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   mar
+     |   ^^^
+  93 | };
+  94 |
+
+Expected ',', got 'mar'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:22.416] Server  LOG     ✓ Compiled in 9ms
+[06:44:23.149] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   margi
+     |   ^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'margi'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:24.479] Server  LOG     ✓ Compiled in 9ms
+[06:44:25.143] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   margin
+     |   ^^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'margin'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:28.826] Server  LOG     ✓ Compiled in 10ms
+[06:44:29.153] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   m
+     |   ^
+  93 | };
+  94 |
+
+Expected ',', got 'm'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:37.056] Server  LOG     ✓ Compiled in 6ms
+[06:44:38.146] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   nar
+     |   ^^^
+  93 | };
+  94 |
+
+Expected ',', got 'nar'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:39.173] Server  LOG     ✓ Compiled in 6ms
+[06:44:40.205] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   n
+     |   ^
+  93 | };
+  94 |
+
+Expected ',', got 'n'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:47.810] Server  LOG     ✓ Compiled in 12ms
+[06:44:48.153] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:93:3
+Parsing ecmascript source code failed
+  91 |   textDecoration: "none",
+  92 |   fontWeight: 500
+> 93 |   MiddlewarePlugin
+     |   ^^^^^^^^^^^^^^^^
+  94 | };
+  95 |
+
+Expected ',', got 'MiddlewarePlugin'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:50.457] Server  LOG     ✓ Compiled in 6ms
+[06:44:51.151] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   margin
+     |   ^^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'margin'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:52.649] Server  LOG     ✓ Compiled in 10ms
+[06:44:53.150] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   marginLeft
+     |   ^^^^^^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'marginLeft'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:55.144] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   marginLeft:
+     |   ^^^^^^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'marginLeft'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:44:58.150] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   marginLeft:5px
+     |   ^^^^^^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'marginLeft'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:45:01.156] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:92:3
+Parsing ecmascript source code failed
+  90 |   textDecoration: "none",
+  91 |   fontWeight: 500
+> 92 |   marginLeft:5px,
+     |   ^^^^^^^^^^
+  93 | };
+  94 |
+
+Expected ',', got 'marginLeft'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:45:24.938] Server  LOG     ✓ Compiled in 10ms
+[06:45:25.156] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:86:3
+Parsing ecmascript source code failed
+  84 |   border: "none",
+  85 |   borderRadius: 12
+> 86 |   mz
+     |   ^^
+  87 | };
+  88 |
+  89 | const link = {
+
+Expected ',', got 'mz'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:45:28.013] Server  LOG     ✓ Compiled in 7ms
+[06:45:28.154] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:86:3
+Parsing ecmascript source code failed
+  84 |   border: "none",
+  85 |   borderRadius: 12
+> 86 |   marg
+     |   ^^^^
+  87 | };
+  88 |
+  89 | const link = {
+
+Expected ',', got 'marg'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:45:30.153] Server  LOG     ✓ Compiled in 7ms
+[06:45:31.151] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx:86:3
+Parsing ecmascript source code failed
+  84 |   border: "none",
+  85 |   borderRadius: 12
+> 86 |   margin
+     |   ^^^^^^
+  87 | };
+  88 |
+  89 | const link = {
+
+Expected ',', got 'margin'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/register/page.tsx [Server Component]
+[06:45:45.712] Server  LOG     ✓ Compiled in 6ms
+[06:45:50.302] Server  LOG     ✓ Compiled in 6ms
+[06:45:59.824] Server  LOG     ✓ Compiled in 7ms
+[06:46:20.437] Server  LOG     ✓ Compiled in 8ms
+[06:46:32.873] Server  LOG     ✓ Compiled in 6ms
+[06:46:38.531] Server  LOG     ✓ Compiled in 6ms
+[06:46:40.403] Server  LOG     ✓ Compiled in 7ms
+[06:46:42.607] Server  LOG     ✓ Compiled in 6ms
+[06:46:44.167] Server  LOG     ✓ Compiled in 12ms
+[06:47:02.213] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:47:13.675] Server  LOG     ✓ Compiled in 10ms
+[06:47:17.930] Server  LOG     ✓ Compiled in 6ms
+[06:47:21.634] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:47:30.060] Server  LOG     ✓ Compiled in 6ms
+[06:47:46.508] Server  LOG     ✓ Compiled in 16ms
+[06:47:49.067] Server  LOG     ✓ Compiled in 5ms
+[06:47:50.544] Server  LOG     ✓ Compiled in 6ms
+[06:47:51.152] Browser ERROR   uncaughtError: ReferenceError: Account is not defined
+[06:47:52.420] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:47:52.598] Server  LOG     ✓ Compiled in 7ms
+[06:47:52.777] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:48:04.421] Server  LOG     ✓ Compiled in 48ms
+[06:48:05.155] Browser ERROR   ./Downloads/task-manager-clean-fullstack/frontend/app/login/page.tsx:94:15
+Parsing ecmascript source code failed
+  92 |   textDecoration: "none",
+  93 |   fontWeight: 500,
+> 94 |   marginLeft: ,
+     |               ^
+  95 | };
+  96 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/login/page.tsx [Client Component Browser]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/login/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/task-manager-clean-fullstack/frontend/app/login/page.tsx [Client Component SSR]
+    ./Downloads/task-manager-clean-fullstack/frontend/app/login/page.tsx [Server Component]
+[06:48:33.119] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:49:48.339] Server  LOG     ✓ Compiled in 9ms
+[06:49:49.458] Server  LOG     ✓ Compiled in 9ms
+[06:50:35.400] Server  LOG     ✓ Compiled in 12ms
+[06:50:35.878] Server  ERROR   ⨯ ReferenceError: font is not defined
+[06:50:36.099] Server  ERROR   ⨯ ReferenceError: font is not defined
+[06:50:36.282] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:37.152] Browser ERROR   uncaughtError: ReferenceError: font is not defined
+[06:50:38.117] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:38.117] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Downloads/task-manager-clean-fullstack/frontend/app/dashboard/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:50:38.117] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:38.539] Server  ERROR   ⨯ ReferenceError: fontS is not defined
+[06:50:38.558] Server  LOG     ✓ Compiled in 8ms
+[06:50:38.883] Server  ERROR   ⨯ ReferenceError: fontS is not defined
+[06:50:39.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:39.302] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:39.303] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Downloads/task-manager-clean-fullstack/frontend/app/dashboard/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:50:39.303] Browser ERROR   uncaughtError: ReferenceError: fontS is not defined
+[06:50:39.303] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:39.623] Server  ERROR   ⨯ ReferenceError: font is not defined
+[06:50:39.634] Server  LOG     ✓ Compiled in 11ms
+[06:50:39.903] Server  ERROR   ⨯ ReferenceError: font is not defined
+[06:50:40.083] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:41.157] Browser ERROR   uncaughtError: ReferenceError: font is not defined
+[06:50:41.981] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:41.981] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Downloads/task-manager-clean-fullstack/frontend/app/dashboard/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:50:41.982] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:42.124] Server  LOG     ✓ Compiled in 8ms
+[06:50:42.294] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:43.851] Server  ERROR   ⨯ ReferenceError: S is not defined
+[06:50:43.871] Server  LOG     ✓ Compiled in 10ms
+[06:50:44.111] Server  ERROR   ⨯ ReferenceError: S is not defined
+[06:50:44.316] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:45.157] Browser ERROR   uncaughtError: ReferenceError: S is not defined
+[06:50:45.206] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:45.207] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Downloads/task-manager-clean-fullstack/frontend/app/dashboard/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:50:45.207] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:45.557] Server  ERROR   ⨯ ReferenceError: s is not defined
+[06:50:45.571] Server  LOG     ✓ Compiled in 8ms
+[06:50:45.780] Server  ERROR   ⨯ ReferenceError: s is not defined
+[06:50:45.939] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:46.158] Browser ERROR   uncaughtError: ReferenceError: s is not defined
+[06:50:47.062] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:47.062] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Downloads/task-manager-clean-fullstack/frontend/app/dashboard/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:50:47.063] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:47.397] Server  ERROR   ⨯ ReferenceError: si is not defined
+[06:50:47.417] Server  LOG     ✓ Compiled in 10ms
+[06:50:47.649] Server  ERROR   ⨯ ReferenceError: si is not defined
+[06:50:47.799] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:50:48.158] Browser ERROR   uncaughtError: ReferenceError: si is not defined
+[06:50:49.690] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:49.691] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./Downloads/task-manager-clean-fullstack/frontend/app/dashboard/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:50:49.691] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:50:49.847] Server  LOG     ✓ Compiled in 50ms
+[06:50:50.026] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:51:17.746] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:51:19.294] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:51:22.150] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:51:32.406] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

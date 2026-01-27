@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/dshiv/Downloads/task-manager-clean-fullstack/frontend/app/page.tsx"],"sourcesContent":["export default function Home() {\r\n  return <a href=\"/login\">Login</a>;\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAO,gTAAC;QAAE,MAAK;kBAAS;;;;;;AAC1B"}}]
+}
