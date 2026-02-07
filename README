@@ -39,7 +39,7 @@ All tasks are private and belong only to the logged-in user.
 ```
 task-manager-clean-fullstack/
 │
-├── backend/   → API, authentication, database
+├── backend/   → API, authentication
 └── frontend/  → User interface
 ```
 
@@ -56,23 +56,12 @@ npx prisma migrate dev
 npm run dev
 
 
-Backend runs on:
-[http://localhost:4000](http://localhost:4000)
-
-
-
 # Frontend Setup
 
 
 cd frontend
 npm install
 npm run dev
-
-
-Frontend runs on:
-[http://localhost:3000](http://localhost:3000)
-
-
 
 # User Registration (Create Account)
 
