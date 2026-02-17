@@ -1,139 +1,118 @@
-# Personal  Task Management  – Full Stack 
+# 🗂️ Personal Task Manager – Full Stack Web Application
 
-This is a complete full-stack Task Management System where users can create an account, log in securely, and manage their personal tasks.
+Personal Task Manager is a full-stack task management system that allows users to securely create, manage, and track their daily tasks through an intuitive and user-friendly interface.
 
-Each user can:
+Each registered user can:
 
-* Add tasks
-* Edit tasks
-* Delete tasks
-* Mark tasks as completed
-* Log out securely
+- Create tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
+- Manage personal task lists securely
 
-All tasks are private and belong only to the logged-in user.
-
----
-
-# Technologies Used
-
-# Backend
-
-* Node.js
-* TypeScript
-* Express
-* Prisma ORM
-* SQLite Database
-* JWT Authentication
-* bcrypt for password encryption
-
-# Frontend
-
-* Next.js (App Router)
-* React
-* TypeScript
+All tasks are private and accessible only to the authenticated user.
 
 ---
 
-# Project Structure
+## 🚀 Live Demo
 
-```
-task-manager-clean-fullstack/
-│
-├── backend/   → API, authentication
-└── frontend/  → User interface
-```
-
-
-
-# Running the Project Locally
-
-# Backend Setup
-
-
-cd backend
-npm install
-npx prisma migrate dev
-npm run dev
-
-
-# Frontend Setup
-
-
-cd frontend
-npm install
-npm run dev
-
-# User Registration (Create Account)
-
-1. Open the app in browser
-2. Click Register / Create Account
-3. Enter email and password
-4. Click Sign Up
-5. You will be redirected to Login page
-
-
-
-# User Login
-
-1. Enter registered email and password
-2. Click Login
-3. You will be redirected to Dashboard
-
-JWT token is stored for secure API access.
-
-
-
-# Dashboard – Task Management
-
-# Add Task
-
-Type task name → Click Add
-
-# Edit Task
-
-Click Edit → Modify text → Click Save
-
-# Delete Task
-
-Click Delete → Task removed
-
-#  Toggle Completion
-
-Click Done to complete
-Click Undo to revert
-
-#  Logout
-
-Click Logout to end session
-
-
-
-#  API Endpoints
-
-# Auth
-
-POST /auth/register
-POST /auth/login
-
-# Tasks
-
-GET /tasks
-POST /tasks
-PATCH /tasks/:id
-DELETE /tasks/:id
-PATCH /tasks/:id/toggle
+https://personal-task-management-lime.vercel.app
 
 ---
 
-# 🛡 Security
+## ✨ Features
 
-* Password hashing with bcrypt
-* JWT protected routes
-* User specific data isolation
+- User registration & authentication
+- JWT-based secure login system
+- Add / edit / delete tasks
+- Mark tasks as completed
+- User-specific private data
+- Protected API routes
+- Responsive task dashboard
 
+---
 
+## 🛠️ Tech Stack
 
-# Author
+### Backend
+- Node.js
+- Express.js
+- TypeScript
+- Prisma ORM
+- SQLite Database
+- JWT Authentication
+- bcrypt (Password Encryption)
 
-Shiva Kumar
+### Frontend
+- Next.js (App Router)
+- React
+- TypeScript
 
+---
+
+## 📦 Installation Process (Local Setup)
+
+### Clone the Repository
+
+git clone https://github.com/Deshishiva/Personal-task-management-.git  
+cd Personal-task-management-
+
+---
+
+### Backend Setup
+
+cd backend  
+npm install  
+npx prisma migrate dev  
+npm run dev  
+
+---
+
+### Frontend Setup
+
+cd ../frontend  
+npm install  
+npm run dev  
+
+---
+
+## 📂 Project Structure
+
+Personal-task-management-/  
+
+│  
+├── backend/   → API & authentication  
+└── frontend/  → User interface  
+
+---
+
+## 🔐 Security
+
+- Password hashing using bcrypt
+- JWT protected routes
+- User-specific data isolation
+- Secure authentication flow
+
+---
+
+## 📌 API Endpoints
+
+### Auth
+
+POST /auth/register  
+POST /auth/login  
+
+### Tasks
+
+GET /tasks  
+POST /tasks  
+PATCH /tasks/:id  
+DELETE /tasks/:id  
+PATCH /tasks/:id/toggle  
+
+---
+
+## 👨‍💻 Developed By
+
+Shiva Kumar Deshi  
+GitHub: https://github.com/Deshishiva
